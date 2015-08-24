@@ -53,7 +53,7 @@ module Game
 
                 puts "15.000 ft CA looks over his shoulder he sees his plane get shot down\n\n"
                 sleep (2)
-                puts "10.000 ft he could feel the gun shot passing close to him and he starting to see that search light when he gets a (FlashBack)"
+                puts "10.000 ft he could feel the gunshots passing close to him and he starting to see that searchlights when he gets a (FlashBack)"
                 space(10)
                 puts "..."
                 sleep (3)

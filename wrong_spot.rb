@@ -29,8 +29,8 @@ module WrongSpot
                 sleep(2)
                 puts "Security guards: base this is Guard 1…"
                 sleep(2)
-                puts "Base: Whats up?\n\n"
-                puts "Guard1: We located some foot prints just keep your eyes open\n\n"
+                puts "Base: What's up?\n\n"
+                puts "Guard1: We located some footprints just keep your eyes open\n\n"
                 sleep (1)
                 puts "Base: Roger that\n\n"
                 final_story_2
