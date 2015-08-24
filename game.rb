@@ -90,7 +90,7 @@ module Game
                     ask_player
                   when  "n"
                     "America got destroyed because of your INCOMPETENCE"
-                  end
+                end
 
 
             else
@@ -102,7 +102,7 @@ module Game
                     space(10)
                     ask_player
                   when  "n"
-                    "America got destroyed because of your INCOMPETENCE"
+                    puts  "America got destroyed because of your INCOMPETENCE"
                     game_over
 
                 end
